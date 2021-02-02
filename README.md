@@ -72,4 +72,4 @@ Our tasks will be the following:
 
 
 
-Our group consist of Mike as the lead followed by Kevin, Ana, and Efrain. As a group we have divided the tasks up for each member on [Github](https://github.com/mregpala/project-national-park-performance/projects/1).
+Our group consist of Mike as the lead followed by Kevin, Ana, and Efrain. As a group we have divided the tasks up for each member on [Github](https://github.com/mregpala/project-national-park-performance/blob/Efrain_Create_README/resources/Parks_Project.png).
