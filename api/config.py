@@ -1,3 +1,3 @@
 #api keys
-g_key="aAIzaSyCwvIRyo603XKE7JlcV9YkMIkxcKgZT35Q"
+g_key="AIzaSyCwvIRyo603XKE7JlcV9YkMIkxcKgZT35Q"
 np_key="17NBOtXD8DSGMZuNC12wyu4GWAX7XN9cwD07Tymm"
